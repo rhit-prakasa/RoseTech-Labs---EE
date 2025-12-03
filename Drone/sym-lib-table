@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "WPME-FDSM_SIP-3")(type "KiCad")(uri "${KIPRJMOD}/footprints/dc-to-dc conv/WPME-FDSM_SIP-3.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS62840DLCR")(type "KiCad")(uri "${KIPRJMOD}/footprints/dc-to-dc conv/TPS62840DLCR.kicad_sym")(options "")(descr ""))
+)
